@@ -1,0 +1,22 @@
+1. Entity
+2. Repository (query)
+3. ServiceCLsass
+4. Controllers
+
+
+Student 
+
+
+id      |   Name      |    Dept       |    Program
+
+
+
+
+
+
+Packages
+
+controllers
+models
+repositories
+services
